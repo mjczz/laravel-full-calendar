@@ -5,13 +5,13 @@ This is a fork of https://github.com/nelkasovic/laravel-full-calendar. A simple 
 ## Installing
 Require the package with composer using the following command:
 
-    composer require qlick/laravel-full-calendar
+    composer require mjczz/laravel-full-calendar
 
 Or add the following to your composer.json's require section and `composer update`
 
 ```json
 "require": {
-	"qlick/laravel-full-calendar": "~1.0"
+	"mjczz/laravel-full-calendar": "~1.0"
 }
 ```
 
